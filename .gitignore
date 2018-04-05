@@ -1,0 +1,11 @@
+*.backup
+.*.swp
+*.bak
+~$*
+trans
+.DS_Store
+node_modules/
+.env
+res
+errs
+env
